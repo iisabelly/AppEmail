@@ -14,6 +14,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
         android:ems="10"
+        android:gravity="top"
         android:inputType="textPersonName"
         android:singleLine="false"
         android:text="Texto"
